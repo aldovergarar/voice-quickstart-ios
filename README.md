@@ -248,6 +248,9 @@ Please ensure that you are not sharing any
 [Personally Identifiable Information(PII)](https://www.twilio.com/docs/glossary/what-is-personally-identifiable-information-pii)
 or sensitive account information (API keys, credentials, etc.) when reporting an issue.
 
+Error 31503 when making outbound calls resulting in SIP response 503 Service Unavailable: First, is a must to resolve the twiml app id difference between the twiml app for outgoing calls
+and the service/function used for incoming calls.  
+
 For general inquiries related to the Voice SDK you can [file a support ticket](https://support.twilio.com/hc/en-us/requests/new).
 
 ## License
